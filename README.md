@@ -100,22 +100,16 @@ Loan-Prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/kanakBhamboo/Loan-Predction/
+git clone https://github.com/kanakBhamboo/Loan-Prediction/
 ```
 
-### 2. Navigate to the project
-
-```bash
-cd Project
-```
-
-### 3. Create a virtual environment (Optional)
+### 2. Create a virtual environment (Optional)
 
 ```bash
 python -m venv venv
 ```
 
-### 4. Activate the virtual environment
+### 3. Activate the virtual environment
 
 **Windows**
 
@@ -129,19 +123,19 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-### 5. Install dependencies
+### 4. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 6. Run the application
+### 5. Run the application
 
 ```bash
 python app.py
 ```
 
-### 7. Open your browser
+### 6. Open your browser
 
 ```
 http://127.0.0.1:5000
